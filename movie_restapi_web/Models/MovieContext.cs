@@ -5,6 +5,9 @@ namespace movie_restapi_web.Models
 {
     public class MovieContext:DbContext
     {
+        public MovieContext()
+        {
+        }
         public MovieContext(DbContextOptions<MovieContext> options)
             :base(options)
         {

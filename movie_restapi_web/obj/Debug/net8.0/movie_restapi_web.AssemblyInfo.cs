@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("movie_restapi_web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+151ae011806a51414845aac30ef62a2976f059ca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+523b33c3856345c13713ac227b88eada66024ced")]
 [assembly: System.Reflection.AssemblyProductAttribute("movie_restapi_web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("movie_restapi_web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

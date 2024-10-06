@@ -1,0 +1,6 @@
+@movie_restapi_web_HostAddress = http://localhost:5293
+
+GET {{movie_restapi_web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

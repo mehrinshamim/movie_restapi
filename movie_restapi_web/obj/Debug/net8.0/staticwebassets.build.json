@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sm2Um+Gk7/+95Rjg9jeAsGxi/bog+MFf6b9E2HdnbDQ=",
+  "Source": "movie_restapi_web",
+  "BasePath": "_content/movie_restapi_web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
